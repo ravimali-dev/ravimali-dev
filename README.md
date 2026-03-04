@@ -24,15 +24,12 @@
 
 ## 📊 GitHub Stats
 
-![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravimali-dev&show_icons=true&theme=tokyonight)
-
+![Ravi's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ravimali-dev&show_icons=true&theme=tokyonight)
 ---
 
 ## 💻 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravimali-dev&layout=compact&theme=tokyonight)
-
----
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ravimali-dev&layout=compact&theme=tokyonight)
 
 ## 🔥 GitHub Streak
 
