@@ -48,7 +48,6 @@
 ## 📈 Contribution Graph
 
 [![Ravi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ravimali-dev&theme=tokyo-night)](https://github.com/ravimali-dev)
-
 ---
 
 ## 👀 Profile Views
