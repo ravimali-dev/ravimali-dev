@@ -24,7 +24,11 @@
 
 ## 🚧 Current Project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ravimali-dev&repo=Minor-Project)](https://github.com/ravimali-dev/Minor-Project)
+📹 [Live Video Call & Chat Application](https://github.com/ravimali-dev/Minor-Project)
+
+Building a real-time communication platform that enables users to connect through live video calls and instant messaging.  
+Focused on creating seamless interaction using modern web technologies.
+
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ravimali-dev&show_icons=true&theme=tokyonight)
