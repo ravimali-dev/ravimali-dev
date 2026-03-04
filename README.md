@@ -51,7 +51,6 @@
 
 ---
 
-## 🐍 Snake Contribution Animation
 
 ![Snake animation](https://github.com/ravimali-dev/ravimali-dev/blob/output/github-contribution-grid-snake.svg)
 
