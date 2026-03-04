@@ -22,6 +22,9 @@
 - 🔄 Automation
 - 🧠 Problem Solving
 
+## 🚧 Current Project
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ravimali-dev&repo=minor-project)](https://github.com/ravimali-dev/minor-project)
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ravimali-dev&show_icons=true&theme=tokyonight)
