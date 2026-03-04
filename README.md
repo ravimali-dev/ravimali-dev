@@ -32,7 +32,6 @@ Focused on creating seamless interaction using modern web technologies.
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ravimali-dev&show_icons=true&theme=tokyonight)
-## 💻 Top Languages
 
 ## 💻 Top Languages
 
