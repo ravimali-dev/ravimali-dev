@@ -24,7 +24,7 @@
 
 ## 📊 GitHub Stats
 
-![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravimali-dev&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravimali-dev&show_icons=true&theme=tokyonight)
 
 ---
 
