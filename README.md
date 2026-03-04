@@ -3,15 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=Developer+%7C+Problem+Solver;Exploring+Web+AI+Systems;Building+Tools+and+Automation)
 
 ---
-## 👨‍💻 About Me
 
-🚀 Curious developer exploring technology and building useful things.
-
-- 🌐 Web Development
-- 🤖 Artificial Intelligence
-- ⚙️ Systems & Tools
-- 🔄 Automation
-- 🧠 Problem Solving
 ## 🛠 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
