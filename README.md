@@ -21,7 +21,14 @@
 * HTML
 * CSS
 * Git
+## 🛠 Tech Stack
 
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
+![Git](https://img.shields.io/badge/Git-red?logo=git)
 ---
 
 ## 📊 GitHub Stats
