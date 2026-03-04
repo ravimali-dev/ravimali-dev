@@ -12,6 +12,12 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## 🛠 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,git,github,vscode" />
+</p>
+
 ## 👨‍💻 About Me
 
 🚀 Curious developer exploring technology and building useful things.
