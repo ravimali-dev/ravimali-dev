@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ravi%20Mali%20%7C%20Full%20Stack%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
 # Hi 👋 I'm Ravi Mali
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=Developer+%7C+Problem+Solver;Exploring+Web+AI+Systems;Building+Tools+and+Automation)
