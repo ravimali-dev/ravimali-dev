@@ -19,26 +19,27 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ## 🚀 Featured Project
 
-## 🚀 Featured Project
-
 ### 📹 Live Video Call & Chat Application
 
 <p align="center">
-<img src="https://api.microlink.io/?url=https://minor-project-n6mx.onrender.com&screenshot=true&meta=false&embed=screenshot.url&width=800"/>
+<img src="https://api.microlink.io/?url=https://minor-project-n6mx.onrender.com&screenshot=true&meta=false&embed=screenshot.url" width="800"/>
 </p>
 
-A real-time communication platform that allows users to connect through **live video calls and instant messaging**.  
+A real-time communication platform that allows users to connect through **live video calls and instant messaging**.
 Designed to provide seamless real-time interaction using modern web technologies.
 
 ### ⚙️ Tech Stack
+
 React.js • Node.js • Express.js • MongoDB • WebRTC • Socket.io
 
 ### 🔗 Links
-🌐 Live Demo  
+
+🌐 **Live Demo**
 https://minor-project-n6mx.onrender.com
 
-📂 GitHub Repository  
+📂 **GitHub Repository**
 https://github.com/ravimali-dev/Minor-Project
+
 
 ## 📊 GitHub Stats
 
