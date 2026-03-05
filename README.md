@@ -6,24 +6,10 @@
 
 # 🧠 Skills & Tech Stack
 
-### 💻 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
-</p>
+## 🧊 Skills Animation
 
-### ⚙ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄 Database
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-</p>
-
-### 🛠 Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,postgres,mysql,git,github,vscode&perline=6" />
 </p>
 
 
