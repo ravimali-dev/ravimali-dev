@@ -28,6 +28,16 @@
 
 Building a real-time communication platform that enables users to connect through live video calls and instant messaging.  
 Focused on creating seamless interaction using modern web technologies.
+## 🚀 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/ravimali-dev/Minor-Project">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ravimali-dev&repo=Minor-Project&theme=tokyonight"/>
+</a>
+
+</p>
+
 
 ## 📊 GitHub Stats
 
