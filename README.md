@@ -26,7 +26,13 @@ Building a real-time communication platform that enables users to connect throug
 Focused on creating seamless interaction using modern web technologies.
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ravimali-dev&show_icons=true&theme=tokyonight)
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ravimali-dev&show_icons=true&theme=tokyonight" />
+
+</p>
+
 
 ## 💻 Top Languages
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ravimali-dev&layout=compact&theme=tokyonight)
