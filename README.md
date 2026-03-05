@@ -24,9 +24,18 @@
 Building a real-time communication platform that enables users to connect through live video calls and instant messaging.  
 Focused on creating seamless interaction using modern web technologies.
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ravimali-dev&show_icons=true&theme=radical)
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ravimali-dev&show_icons=true&theme=tokyonight" height="180em"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravimali-dev&layout=compact&theme=tokyonight" height="180em"/>
+
+</p>
+
+---
+
 
 ## 🔥 GitHub Streak
 
