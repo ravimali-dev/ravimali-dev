@@ -27,15 +27,17 @@ Focused on creating seamless interaction using modern web technologies.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ravimali-dev&show_icons=true&theme=tokyonight" />
-
-</p>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ravimali-dev&theme=tokyonight" />
 
 ## 💻 Top Languages
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ravimali-dev&layout=compact&theme=tokyonight)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ravimali-dev&theme=tokyonight" />
+
+## 📈 GitHub Overview
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravimali-dev&theme=tokyonight" />
+
+
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ravimali-dev&theme=tokyonight)
