@@ -34,26 +34,7 @@
 Building a real-time communication platform that enables users to connect through live video calls and instant messaging.  
 Focused on creating seamless interaction using modern web technologies.
 
-## 📊 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ravimali-dev&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravimali-dev&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ravimali-dev&theme=tokyo-night"/>
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ravimali-dev&theme=tokyonight)
-
----
 
 ## 📈 Contribution Graph
 
@@ -63,7 +44,7 @@ Focused on creating seamless interaction using modern web technologies.
 ## 👀 Profile Views
 
 ![Profile views](https://komarev.com/ghpvc/?username=ravimali-dev&color=blue)
-
+<img src="https://komarev.com/ghpvc/?username=ravimali-dev&label=Profile%20views&color=0e75b6&style=flat"/>
 ---
 
 
