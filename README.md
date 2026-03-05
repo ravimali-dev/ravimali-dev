@@ -69,6 +69,26 @@ Focused on creating seamless interaction using modern web technologies.
 
 ---
 
-## 📫 Connect With Me
+# 🌐 Connect With Me
 
-GitHub: https://github.com/ravimali-dev
+<p align="center">
+
+<a href="https://github.com/ravimali-dev">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=firefox">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+🔥 “Consistency beats talent when talent doesn't work hard.”
+</p>
