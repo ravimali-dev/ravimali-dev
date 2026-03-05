@@ -34,7 +34,13 @@
 Building a real-time communication platform that enables users to connect through live video calls and instant messaging.  
 Focused on creating seamless interaction using modern web technologies.
 
+## 📊 GitHub Stats
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ravimali-dev&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ravimali-dev&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravimali-dev&theme=github_dark"/>
 
 ## 📈 Contribution Graph
 
@@ -43,7 +49,6 @@ Focused on creating seamless interaction using modern web technologies.
 
 ## 👀 Profile Views
 
-![Profile views](https://komarev.com/ghpvc/?username=ravimali-dev&color=blue)
 <img src="https://komarev.com/ghpvc/?username=ravimali-dev&label=Profile%20views&color=0e75b6&style=flat"/>
 ---
 
