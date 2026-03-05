@@ -24,6 +24,7 @@
 
 ## 🚧 Current Project
 
+
 📹 [Live Video Call & Chat Application](https://github.com/ravimali-dev/Minor-Project)
 
 Building a real-time communication platform that enables users to connect through live video calls and instant messaging.  
