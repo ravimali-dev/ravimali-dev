@@ -71,3 +71,7 @@ Focused on creating seamless interaction using modern web technologies.
 ## 📫 Connect With Me
 
 GitHub: https://github.com/ravimali-dev
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
+
