@@ -3,10 +3,10 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=Developer+%7C+Problem+Solver;Exploring+Web+AI+Systems;Building+Tools+and+Automation)
 
 ---
-## 🧊 Skills Cube
+## ⚡ Technologies
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/SkillCube.gif" width="220"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,postgres,git,github,vscode&perline=12" />
 </p>
 
 ## 🚧 Current Project
