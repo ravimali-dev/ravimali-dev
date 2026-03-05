@@ -3,27 +3,17 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=Developer+%7C+Problem+Solver;Exploring+Web+AI+Systems;Building+Tools+and+Automation)
 
 ---
+
 ## 🚀 Tech Stack
 
-<p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/>
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-</p>
+
 
 ## 🚧 Current Project
-
 
 📹 [Live Video Call & Chat Application](https://github.com/ravimali-dev/Minor-Project)
 
@@ -31,12 +21,15 @@ Building a real-time communication platform that enables users to connect throug
 Focused on creating seamless interaction using modern web technologies.
 
 ## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ravimali-dev&show_icons=true&theme=tokyonight)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ravimali-dev&theme=github_dark"/>
+## 💻 Top Languages
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ravimali-dev&layout=compact&theme=tokyonight)
+## 🔥 GitHub Streak
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ravimali-dev&theme=github_dark"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=ravimali-dev&theme=tokyonight)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravimali-dev&theme=github_dark"/>
+---
 
 ## 📈 Contribution Graph
 
@@ -45,7 +38,8 @@ Focused on creating seamless interaction using modern web technologies.
 
 ## 👀 Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=ravimali-dev&label=Profile%20views&color=0e75b6&style=flat"/>
+![Profile views](https://komarev.com/ghpvc/?username=ravimali-dev&color=blue)
+
 ---
 
 
@@ -63,26 +57,6 @@ Focused on creating seamless interaction using modern web technologies.
 
 ---
 
-# 🌐 Connect With Me
+## 📫 Connect With Me
 
-<p align="center">
-
-<a href="https://github.com/ravimali-dev">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://www.linkedin.com/in/ravi-mali-dev">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
-</p>
-
-</p>
-
----
-
-<p align="center">
-🔥 "Build skills, stay consistent, success will follow."
-</p>
+GitHub: https://github.com/ravimali-dev
