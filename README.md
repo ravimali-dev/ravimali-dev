@@ -21,23 +21,25 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
 ## 🚀 Featured Project
-
-<p align="center">
-
-<a href="https://github.com/ravimali-dev/Minor-Project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ravimali-dev&repo=Minor-Project&theme=tokyonight"/>
-</a>
-
-</p>
 
 ### 📹 Live Video Call & Chat Application
 
-A real-time platform enabling **video calls and instant messaging** using modern web technologies.
+![Project Preview](./preview.png)
 
-**Tech Stack:** React.js • Node.js • Express.js • MongoDB • WebRTC • Socket.io
+A real-time communication platform that enables users to connect through **live video calls and instant messaging**.
 
+### ⚙️ Tech Stack
+
+React.js • Node.js • Express.js • MongoDB • WebRTC • Socket.io
+
+### 🔗 Live Demo
+
+https://minor-project-n6mx.onrender.com
+
+### 📂 Repository
+
+https://github.com/ravimali-dev/Minor-Project
 
 ## 📊 GitHub Stats
 
