@@ -36,11 +36,19 @@ Focused on creating seamless interaction using modern web technologies.
 
 ## 📊 GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ravimali-dev&theme=github_dark"/>
+<p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ravimali-dev&theme=github_dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ravimali-dev&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravimali-dev&theme=github_dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravimali-dev&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ravimali-dev&theme=tokyo-night"/>
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ravimali-dev&theme=tokyonight)
